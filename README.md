@@ -13,5 +13,5 @@ Pandas for data manipulation.
 Scikit-learn for machine learning models.
 Seaborn and Matplotlib for data visualization.
 Streamlit for creating an interactive web application interface.
-# This project provides a robust framework for analyzing WhatsApp chat data, making it easier to derive meaningful insights from text conversations. Whether you want to understand user engagement, track chat activity, or gauge the overall sentiment, this tool equips you with the necessary analytics.
+This project provides a robust framework for analyzing WhatsApp chat data, making it easier to derive meaningful insights from text conversations. Whether you want to understand user engagement, track chat activity, or gauge the overall sentiment, this tool equips you with the necessary analytics.
 

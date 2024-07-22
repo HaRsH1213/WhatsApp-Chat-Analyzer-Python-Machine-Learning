@@ -8,7 +8,7 @@ WhatsApp Chat Analyzer is a Python-based application designed to analyze WhatsAp
   Emoji Analysis: Extract and analyze the use of emojis within conversations.
   Activity Heatmap: Visualize chat activity patterns over days and periods.
 # Technologies:
-  Python for data processing and analysis.
+  ### Python for data processing and analysis.
   Pandas for data manipulation.
   Scikit-learn for machine learning models.
   Seaborn and Matplotlib for data visualization.
